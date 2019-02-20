@@ -48,6 +48,17 @@ input{
     align-items: center;
 
 }
+.header form input{
+    color: black;
+    padding: 10px;
+    padding-right: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+    outline: none;
+}
+.header form input.btn.btn-primary {
+    padding: 10px 50px;
+}
 .header button{
     padding-left: 40px;
     padding-right: 40px;
